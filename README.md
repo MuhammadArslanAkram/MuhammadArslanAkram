@@ -9,8 +9,6 @@ I want to make difference and willing to work hard for skillful career rather th
 - 👯 Looking to wrok a
 - 🤔 I’m looking for help with Data Engineering stuff
 - 💬 Ask me about Python
-- Email me :[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50em" align="center" alt="Follow Arslan on Linkedin"](muhammadarslanakram@gmail.com)
-- 📫 Contact me on : [Linkedin](https://www.linkedin.com/in/arslanakram1/)
-- 📫 Check my work on : [Kaggle](https://www.kaggle.com/muhammadarslanakram)
-
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Facebook"/>](https://www.facebook.com/zahid.uan/)
+- :trophy: Check my work on : [Kaggle](https://www.kaggle.com/muhammadarslanakram)
+- 📫 Contact me : [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20em" align="center" alt="Follow Arslan on Gmail"/>](muhammadarslanakram@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20em" align="center" alt="Follow Arslan on Linkedin"/>](https://www.linkedin.com/in/arslanakram1/)
