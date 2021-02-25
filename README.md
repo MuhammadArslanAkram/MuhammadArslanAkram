@@ -11,7 +11,7 @@ I want to make difference and willing to work hard for skillful career rather th
 - 💬 Ask me about Python
 - :trophy: Check my work on : [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="20em" align="center" alt="Follow Arslan on Linkedin"/>](https://www.kaggle.com/muhammadarslanakram)
 - 📫 Contact me on : [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20em" align="center" alt="Follow Arslan on Linkedin"/>](https://www.linkedin.com/in/arslanakram1/)
-- Email me : [muhammadarslanakram@gmail.com](muhammadarslanakram@gmail.com)
+- :email: Email me : [muhammadarslanakram@gmail.com](muhammadarslanakram@gmail.com)
 <br>
 
 > *Data will talk to you, if you are willing to listen.*
