@@ -9,7 +9,8 @@ I want to make difference and willing to work hard for skillful career rather th
 - 👯 I’m looking to collaborate on PySpark
 - 🤔 I’m looking for help with Data Engineering stuff
 - 💬 Ask me about Python
-- 📫 How to reach me: [muhammadarslanakram@gmail.com](muhammadarslanakram@gmail.com)
+- 📫 Email me : [muhammadarslanakram@gmail.com](muhammadarslanakram@gmail.com)
+- 📫 Contact me on : [Linkedin](https://www.linkedin.com/in/arslanakram1/)
+- 📫 Check my work on : [Kaggle](https://www.kaggle.com/muhammadarslanakram)
 
 [<img src="https://github.com/uannabi/-/blob/master/resource/social/linkedin-ar21.svg" height="50em" align="center" alt="Follow Arslan on LinkedIn"/>](https://www.linkedin.com/in/arslanakram1/) 
-[<img src="https://images.app.goo.gl/SNK2tzErEtsjJ99K8" height="50em" align="center" alt="Follow Arslan on Kaggle"/>](https://stackoverflow.com/users/7875250/zahid-uan-nabi)
