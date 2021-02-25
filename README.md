@@ -6,11 +6,9 @@ I want to make difference and willing to work hard for skillful career rather th
 
 - 🔭 I’m currently polishing my skills on Kaggle.
 - 🌱 I’m currently learning Deep learning
-- 👯 I’m looking to collaborate on PySpark
+- 👯 Looking to wrok a
 - 🤔 I’m looking for help with Data Engineering stuff
 - 💬 Ask me about Python
 - 📫 Email me : [muhammadarslanakram@gmail.com](muhammadarslanakram@gmail.com)
 - 📫 Contact me on : [Linkedin](https://www.linkedin.com/in/arslanakram1/)
 - 📫 Check my work on : [Kaggle](https://www.kaggle.com/muhammadarslanakram)
-
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/linkedin-ar21.svg" height="50em" align="center" alt="Follow Arslan on LinkedIn"/>](https://www.linkedin.com/in/arslanakram1/) 
