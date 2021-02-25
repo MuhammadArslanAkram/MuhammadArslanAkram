@@ -10,5 +10,5 @@ I want to make difference and willing to work hard for skillful career rather th
 - 🤔 I’m looking for help with Data Engineering stuff
 - 💬 Ask me about Python
 - :trophy: Check my work on : [Kaggle](https://www.kaggle.com/muhammadarslanakram)
-- 📫 Contact me : [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20em" align="center" alt="Follow Arslan on Gmail"/>](muhammadarslanakram@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20em" align="center" alt="Follow Arslan on Linkedin"/>](https://www.linkedin.com/in/arslanakram1/)
+- 📫 Contact me on : [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20em" align="center" alt="Follow Arslan on Linkedin"/>](https://www.linkedin.com/in/arslanakram1/)
+- Email me : ["muhammadarslanakram@gmail.com"](muhammadarslanakram@gmail.com)
